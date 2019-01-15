@@ -1,0 +1,64 @@
+body#LoginForm{ background: url(/img/predios.jpg) no-repeat;}
+
+.form-heading { color:#fff; font-size:23px;}
+.PAGE-HEADER { color: #FF7600; font-size: 18px; font-weight: bold; text-align: center;}
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10% auto 0%;
+  max-width: 38%;
+  padding: 50px 70px 70px 71px;
+
+}
+
+.login-form .form-group {
+  margin-bottom:10px;
+}
+.login-form{ text-align:center;}
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.login-form  .btn.btn-warning {
+    background: #f3a83d none repeat scroll 0 0;
+    border-color: #f3a83d;
+    color: #ffffff;
+    font-size: 14px;
+
+  }
+.btn.btn-warning:hover {
+    background-color: #ff7600;
+    color: white;
+  }
+
+.glyphicon-chevron-left {
+      color: #ff7600; 
+  }
+
+.forgot {
+  text-align: left; margin-bottom:30px;
+}
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+.login-form .btn.btn-primary.reset {
+  background: #f3a83d none repeat scroll 0 0;
+}
+
+.chamada {
+	border-style: solid;
+	border-color: #fff;
+	box-shadow: 3px 3px 10px #000;
+	border-radius: 10px;
+}
